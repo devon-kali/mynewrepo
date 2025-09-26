@@ -1,7 +1,7 @@
 
 func a(b) {
 
-  return b + 1
+  return b + 2
 
 }
 
